@@ -1,6 +1,5 @@
 /**
  * @fileoverview 可扩展的treeNode.
- * @author jiankangzhang
  */
 
 
